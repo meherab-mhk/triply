@@ -1,1 +1,1 @@
-#triply live address: https://www.triply-mhk.netlify.app
+#triply live address: https://triply-mhk.netlify.app
